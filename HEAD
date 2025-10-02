@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 967ec326104e2a586486e9433872cbe899f124f0 e2358 <47014325-e2358@users.noreply.replit.com> 1759384795 +0000	commit (initial): Initial commit
+967ec326104e2a586486e9433872cbe899f124f0 3cf225ebcc0ad423805b7248d5b7d7e2e81c5496 e2358 <47014325-e2358@users.noreply.replit.com> 1759384966 +0000	commit: Add foundational structure and theme toggling for personal portfolio
+3cf225ebcc0ad423805b7248d5b7d7e2e81c5496 9803a65a65cc8bcc6ab318fb13dee8ea55bea30c e2358 <47014325-e2358@users.noreply.replit.com> 1759385238 +0000	commit: Add mobile navigation menu for easier site access on smaller screens
+9803a65a65cc8bcc6ab318fb13dee8ea55bea30c d3be6e358a285954ea4971b5270079f16f50a849 e2358 <47014325-e2358@users.noreply.replit.com> 1759385298 +0000	commit: Add a detailed project description and system architecture documentation
